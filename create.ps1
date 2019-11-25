@@ -1,7 +1,7 @@
 ##
 write-output "Hello world"
 
-
+. .\actfunc2.ps1
 
 ActPC
 
