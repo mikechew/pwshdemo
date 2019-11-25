@@ -1,7 +1,7 @@
 ##
 write-output "Hello world"
 
-.\"$Env:WORKSPACE\actfunc".ps1
+
 
 ActPC
 
